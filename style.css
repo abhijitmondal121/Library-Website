@@ -1,0 +1,21 @@
+.h{
+    font-family: cursive;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    text-shadow: 3px 5px yellowgreen;
+}
+#table{
+    margin-top: 50px;
+    background-color: rgb(255, 233, 30);
+    border-radius: 10px;
+}
+th{
+    font-size: 23px;;
+}
+#tableBody{
+    font-size: 20px;
+}
+#t1{
+    font-size: 23px;
+}
